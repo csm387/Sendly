@@ -28,7 +28,7 @@ A modern, feature-rich API testing tool built with Flutter. Sendly provides a be
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sendly.git
+   git clone https://github.com/csm387/Sendly.git
    ```
 
 2. Navigate to the project directory:
